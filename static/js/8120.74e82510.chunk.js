@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkchat_app=self.webpackChunkchat_app||[]).push([[8120],{8120:(a,e,s)=>{s.d(e,{Pauser:()=>n});var t=s(4864);class n extends t.Ef{constructor(a){super(a),this.handleClickMode=a=>{if("pause"!==a)return;const e=this.container;e.animationStatus?e.pause():e.play()}}clear(){}init(){}async interact(){}isEnabled(){return!0}reset(){}}}}]);
+//# sourceMappingURL=8120.74e82510.chunk.js.map

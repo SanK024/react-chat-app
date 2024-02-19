@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkchat_app=self.webpackChunkchat_app||[]).push([[3808],{3808:(t,n,o)=>{o.d(n,{drawPolygon:()=>u});var a=o(4864);const e=180,c={x:0,y:0},r=2;function u(t,n,o){const{context:u}=t,h=o.count.numerator*o.count.denominator,l=o.count.numerator/o.count.denominator,s=e*(l-r)/l,i=Math.PI-(0,a.qy)(s);if(u){u.beginPath(),u.translate(n.x,n.y),u.moveTo(c.x,c.y);for(let t=0;t<h;t++)u.lineTo(o.length,c.y),u.translate(o.length,c.y),u.rotate(i)}}}}]);
+//# sourceMappingURL=3808.62d0908b.chunk.js.map

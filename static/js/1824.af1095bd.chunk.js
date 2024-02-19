@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkchat_app=self.webpackChunkchat_app||[]).push([[1824],{1824:(a,n,e)=>{async function s(a){let n=!(arguments.length>1&&void 0!==arguments[1])||arguments[1];const{AbsorbersPlugin:s}=await e.e(8940).then(e.bind(e,8940));await a.addPlugin(new s,n)}e.d(n,{loadAbsorbersPlugin:()=>s})}}]);
+//# sourceMappingURL=1824.af1095bd.chunk.js.map

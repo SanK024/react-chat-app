@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkchat_app=self.webpackChunkchat_app||[]).push([[2816],{2816:(e,a,t)=>{async function r(e){var a;let r=!(arguments.length>1&&void 0!==arguments[1])||arguments[1];const c=e,{EmittersCircleShapeGenerator:i}=await t.e(5008).then(t.bind(t,5008));null===(a=c.addEmitterShapeGenerator)||void 0===a||a.call(c,"circle",new i),await c.refresh(r)}t.d(a,{loadEmittersShapeCircle:()=>r})}}]);
+//# sourceMappingURL=2816.a8d70346.chunk.js.map

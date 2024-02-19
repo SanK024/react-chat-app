@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkchat_app=self.webpackChunkchat_app||[]).push([[8356],{8356:(a,e,t)=>{async function n(a){let e=!(arguments.length>1&&void 0!==arguments[1])||arguments[1];await a.addParticleUpdater("twinkle",(async()=>{const{TwinkleUpdater:a}=await t.e(4856).then(t.bind(t,4856));return new a}),e)}t.d(e,{loadTwinkleUpdater:()=>n})}}]);
+//# sourceMappingURL=8356.65a893a5.chunk.js.map

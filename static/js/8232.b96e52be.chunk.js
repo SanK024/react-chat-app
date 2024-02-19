@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkchat_app=self.webpackChunkchat_app||[]).push([[8232],{8232:(a,e,t)=>{async function n(a){let e=!(arguments.length>1&&void 0!==arguments[1])||arguments[1];await a.addParticleUpdater("wobble",(async a=>{const{WobbleUpdater:e}=await t.e(9388).then(t.bind(t,9388));return new e(a)}),e)}t.d(e,{loadWobbleUpdater:()=>n})}}]);
+//# sourceMappingURL=8232.b96e52be.chunk.js.map

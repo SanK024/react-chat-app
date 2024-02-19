@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkchat_app=self.webpackChunkchat_app||[]).push([[7704],{7704:(a,e,n)=>{n.d(e,{CircleDrawer:()=>c});var i=n(4864);class c{async draw(a){const{drawCircle:e}=await n.e(8808).then(n.bind(n,8808));e(a)}getSidesCount(){return 12}async particleInit(a,e){var n;const c=e.shapeData,r=null!==(n=null===c||void 0===c?void 0:c.angle)&&void 0!==n?n:{max:360,min:0};e.circleRange=(0,i.Y9)(r)?{min:(0,i.qy)(r.min),max:(0,i.qy)(r.max)}:{min:0,max:(0,i.qy)(r)},await Promise.resolve()}}}}]);
+//# sourceMappingURL=7704.9d3090a5.chunk.js.map

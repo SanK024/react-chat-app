@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkchat_app=self.webpackChunkchat_app||[]).push([[5220],{2840:(t,a,e)=>{async function n(t){let a=!(arguments.length>1&&void 0!==arguments[1])||arguments[1];await t.addParticleUpdater("tilt",(async t=>{const{TiltUpdater:a}=await e.e(8628).then(e.bind(e,8628));return new a(t)}),a)}e.d(a,{loadTiltUpdater:()=>n})}}]);
+//# sourceMappingURL=5220.97556b8b.chunk.js.map

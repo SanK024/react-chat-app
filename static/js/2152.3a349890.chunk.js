@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkchat_app=self.webpackChunkchat_app||[]).push([[2152],{2152:(a,l,p)=>{function t(a){const{context:l,particle:p,radius:t,opacity:c}=a,e=p.emojiData,o=2*t,h=l.globalAlpha;e&&(l.globalAlpha=c,l.drawImage(e,-t,-t,o,o),l.globalAlpha=h)}p.d(l,{drawEmoji:()=>t})}}]);
+//# sourceMappingURL=2152.3a349890.chunk.js.map
