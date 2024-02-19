@@ -38,13 +38,9 @@ body {
   align-items: center;
 }
 
-form {
-  display: flex;
-}
-
 .formWrapper--form {
-  display: flex;
-  flex-direction: column;
+  display: flex !important;
+  flex-direction: column !important;
   gap: 25px;
 }
 
