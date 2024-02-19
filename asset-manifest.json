@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-chat-app/static/css/main.fe2e8c29.css",
-    "main.js": "/react-chat-app/static/js/main.7a828143.js",
+    "main.css": "/react-chat-app/static/css/main.81546a3e.css",
+    "main.js": "/react-chat-app/static/js/main.34a2cfce.js",
     "static/js/3112.0108dc13.chunk.js": "/react-chat-app/static/js/3112.0108dc13.chunk.js",
     "static/js/5652.7e7bacd3.chunk.js": "/react-chat-app/static/js/5652.7e7bacd3.chunk.js",
     "static/js/6256.ad69b61d.chunk.js": "/react-chat-app/static/js/6256.ad69b61d.chunk.js",
@@ -118,8 +118,8 @@
     "static/js/4384.87a6d097.chunk.js": "/react-chat-app/static/js/4384.87a6d097.chunk.js",
     "static/js/9484.e8b9bbbb.chunk.js": "/react-chat-app/static/js/9484.e8b9bbbb.chunk.js",
     "index.html": "/react-chat-app/index.html",
-    "main.fe2e8c29.css.map": "/react-chat-app/static/css/main.fe2e8c29.css.map",
-    "main.7a828143.js.map": "/react-chat-app/static/js/main.7a828143.js.map",
+    "main.81546a3e.css.map": "/react-chat-app/static/css/main.81546a3e.css.map",
+    "main.34a2cfce.js.map": "/react-chat-app/static/js/main.34a2cfce.js.map",
     "3112.0108dc13.chunk.js.map": "/react-chat-app/static/js/3112.0108dc13.chunk.js.map",
     "5652.7e7bacd3.chunk.js.map": "/react-chat-app/static/js/5652.7e7bacd3.chunk.js.map",
     "6256.ad69b61d.chunk.js.map": "/react-chat-app/static/js/6256.ad69b61d.chunk.js.map",
@@ -237,7 +237,7 @@
     "9484.e8b9bbbb.chunk.js.map": "/react-chat-app/static/js/9484.e8b9bbbb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe2e8c29.css",
-    "static/js/main.7a828143.js"
+    "static/css/main.81546a3e.css",
+    "static/js/main.34a2cfce.js"
   ]
 }
