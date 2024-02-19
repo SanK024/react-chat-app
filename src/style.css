@@ -305,6 +305,7 @@ body {
   border-radius: 40px 0px 0px 40px;
 
   > input {
+    margin-left: 15px;
     width: 100%;
     border: none;
     outline: none;
