@@ -18,9 +18,9 @@ function App() {
   };
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Routes>
-        <Route path="/">
+        <Route exact path="/">
           <Route
             index
             element={
