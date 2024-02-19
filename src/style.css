@@ -36,37 +36,40 @@ body {
   gap: 10px;
   color: #366053;
   align-items: center;
-  > form {
-    display: flex;
-    flex-direction: column;
-    gap: 25px;
-    > input {
-      padding: 15px;
-      border: none;
-      width: 250px;
-      color: #366053;
-      font-size: 20px;
-      border-bottom: 1px solid white;
-      background-color: transparent;
-      &::placeholder {
-        color: #366053;
-        font-size: 20px;
-      }
-    }
-    > button {
-      background-color: white;
-      color: #3f8564;
-      padding: 10px;
-      font-weight: bold;
-      border: none;
-      cursor: pointer;
-    }
-  }
+}
 
-  > p {
-    font-size: 15px;
-    margin-top: 10px;
+.formWrapper--form {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+
+.formWrapper--form--input {
+  padding: 15px;
+  border: none;
+  width: 250px;
+  color: #366053;
+  font-size: 20px;
+  border-bottom: 1px solid white;
+  background-color: transparent;
+  &::placeholder {
+    color: #366053;
+    font-size: 20px;
   }
+}
+
+.formWrapper--form--button {
+  background-color: white;
+  color: #3f8564;
+  padding: 10px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+}
+
+.formWrapper--p {
+  font-size: 15px;
+  margin-top: 10px;
 }
 
 .logo {
@@ -291,7 +294,6 @@ body {
     width: 50%;
   }
 }
-
 
 .input {
   height: 50px;

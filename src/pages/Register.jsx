@@ -79,20 +79,43 @@ const Register = () => {
       <div className="formWrapper">
         <span className="logo">MinionVerse</span>
         <span className="title">Register</span>
-        <form onSubmit={handleSubmit}>
-          <input required type="text" placeholder="Display name" />
-          <input required type="email" placeholder="E-mail" />
-          <input required type="password" placeholder="Password" />
-          <input required style={{ display: "none" }} type="file" id="file" />
+        <form className="formWrapper--form" onSubmit={handleSubmit}>
+          <input
+            className="formWrapper--form--input"
+            required
+            type="text"
+            placeholder="Display name"
+          />
+          <input
+            className="formWrapper--form--input"
+            required
+            type="email"
+            placeholder="E-mail"
+          />
+          <input
+            className="formWrapper--form--input"
+            required
+            type="password"
+            placeholder="Password"
+          />
+          <input
+            className="formWrapper--form--input"
+            required
+            style={{ display: "none" }}
+            type="file"
+            id="file"
+          />
           <label className="add-avatar" htmlFor="file">
             <img src={Add} alt="" />
             <span>Add an avatar</span>
           </label>
-          <button disabled={loading}>Sign up</button>
+          <button className="formWrapper--form--button" disabled={loading}>
+            Sign up
+          </button>
           {loading && "Hold an a minute"}
           {err && <span>Something went wrong</span>}
         </form>
-        <p>
+        <p className="formWrapper--p">
           Aldready been here? <Link to="/login">Login</Link>
         </p>
       </div>
